@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Oddać auto do warsztatu",
+      "day": "17.02.2020r.",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Kolokwium z PISZ",
+      "day": "16.02.2020r.",
+      "reminder": true
+    },
+    {
+      "text": "Kupić tłumik",
+      "day": "21.02.2021r.",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
